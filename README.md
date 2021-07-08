@@ -36,4 +36,9 @@ python3 tinypng.py [filepath] [key]
 
 PS：已使用 Python2.7 和 Python3.4 亲测有效，其他 Python 版本如果有异常，请反馈
 
+**执行命令**
+```python3
+python3 tinypng.py /Users/cj/PycharmProjects/tinypng/black_dog.jpg
+```
+
 
